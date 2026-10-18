@@ -1,0 +1,23 @@
+{
+  "name": "dashly",
+  "description": "Track calories, water, habits, mood, workouts, spending and tasks by telling Claude Code, and see each one as a live tile against its goal on your Dashly dashboard. Connects the Dashly MCP server (sign in once, no key), plus a skill on how to log well.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ThinSlate Labs",
+    "url": "https://dashly.si"
+  },
+  "homepage": "https://dashly.si/connect",
+  "license": "MIT",
+  "keywords": [
+    "dashly",
+    "mcp",
+    "dashboard",
+    "habit-tracker",
+    "calorie-tracker",
+    "expense-tracker",
+    "mood-tracker",
+    "quantified-self",
+    "personal-dashboard",
+    "agent"
+  ]
+}

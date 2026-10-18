@@ -1,0 +1,15 @@
+{
+  "name": "dashly",
+  "description": "Dashly for Claude Code. Dashly keeps what you track (meals, water, habits, mood, workouts, spending, tasks) and shows it as live dashboards; log it by telling Claude.",
+  "owner": {
+    "name": "ThinSlate Labs",
+    "url": "https://dashly.si"
+  },
+  "plugins": [
+    {
+      "name": "dashly",
+      "source": "./plugins/dashly",
+      "description": "Track anything by telling Claude Code, and see it on a live Dashly dashboard against your goals. Connects the Dashly MCP server (sign in once, no key), with a skill on how to log well."
+    }
+  ]
+}
