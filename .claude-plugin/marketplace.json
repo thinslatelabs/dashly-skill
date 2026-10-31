@@ -2,7 +2,7 @@
   "name": "dashly",
   "description": "Dashly for Claude Code: track everything and give structure to your AI conversations. Calories, habits, mood, spending and tasks on one live dashboard, logged by telling Claude.",
   "owner": {
-    "name": "ThinSlate Labs",
+    "name": "Thinslate Labs LLC",
     "url": "https://dashly.si"
   },
   "plugins": [
