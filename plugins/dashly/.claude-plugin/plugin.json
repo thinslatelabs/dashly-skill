@@ -2,13 +2,17 @@
   "name": "dashly",
   "displayName": "Dashly",
   "description": "Track calories, habits, mood, workouts, spending and tasks by telling Claude, and see each one as a live tile against its goal on your Dashly dashboard. Connects the Dashly MCP server, plus a skill on how to log well.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": {
     "name": "Thinslate Labs LLC",
     "url": "https://dashly.si"
   },
   "homepage": "https://dashly.si/connect",
   "privacyPolicyUrl": "https://dashly.si/privacy",
+  "supportUrl": "https://dashly.si/support",
+  "documentationUrl": "https://dashly.si/connect",
+  "termsOfServiceUrl": "https://dashly.si/terms",
+  "repository": "https://github.com/thinslatelabs/dashly-skill",
   "license": "MIT",
   "keywords": [
     "dashly",
